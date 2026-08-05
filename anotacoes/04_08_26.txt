@@ -1,0 +1,19 @@
+SAD X Sistemas de recomendação
+
+- SAD pode conter um SR dentro dele
+
+métodos de busca --> raciocínio
+redes neurais --> aprendizagem --> reconhecer
+
+
+**********************************
+*anotacoes zamba*
+
+Saúde:
+	Diagnóstico
+		- reconhecer padrões -> volume de dados -> algoritmos de aprendizado de máquina
+	Monitoramento ou Sensoriamento Atuação
+		- automação
+	Predição e Previsão
+		- reconhecer padrões -> volume de dados -> algoritmos de mineração
+****************************

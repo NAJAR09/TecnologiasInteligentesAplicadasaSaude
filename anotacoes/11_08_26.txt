@@ -1,0 +1,9 @@
+modelos pré-treinados:
+	Saude -> predição: classificação = categorização = etiquetação
+	      -> previsão: series temporais = tempo continua = projeção 
+
+!Segredo!
+	qualidade da amostra  -> individuos
+	(Injeção de amostra)  -> elementos
+			      -> objetos
+			      -> cenários

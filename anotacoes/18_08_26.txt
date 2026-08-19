@@ -1,0 +1,11 @@
+KDO
+ >
+mineração(DM)
+ >
+reconhecimento de padrões	-> predicao 
+					-> modelos treinados
+					-> modelso matematicos
+					-> classificação (etiquetar)
+
+				-> previsão
+					-> modelos treinados (amostras)

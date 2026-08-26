@@ -1,0 +1,1 @@
+Normalização = Filtrar o banco de dados retirando respostas não verdadeiras, como pessoas que na nota colocam tudo 1 ou tudo 5.

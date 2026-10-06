@@ -1,0 +1,9 @@
+SISTEMAS DE IA - ANALOGIA AO CORPO HUMANO
+
+LLM - cérebro (geração de texto)
+
+RAG - cérebro = livros (usa documentos e bancos de dados)
+
+Agentes de IA - cérebro + mãos (toma acoes automaticamente)
+
+MCP - sistema nervoso (conecta tudo, camada de base/funcao)

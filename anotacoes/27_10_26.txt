@@ -1,0 +1,14 @@
+tokentização
+- chunks
+- tokens
+
+emeddings
+
+transformers
+- da o sentido do contexto
+- ve quais partes dos contexto são mais importantes para interpretar cada token
+- selfatention: se compara com outros token para ver a relevancia
+
+LLM - Large Language Model
+
+metodologia SPEC
